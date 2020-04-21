@@ -679,7 +679,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 05b7aa50e5b63f548bdb7982fb937de1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Imagetriggered1: {fileID: 0}
+  Imagetriggered1: {fileID: 294027664}
   Imagetriggered2: {fileID: 0}
 --- !u!1 &689992778
 GameObject:

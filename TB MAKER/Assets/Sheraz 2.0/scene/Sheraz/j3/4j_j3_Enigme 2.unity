@@ -379,7 +379,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 05b7aa50e5b63f548bdb7982fb937de1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Imagetriggered1: {fileID: 0}
+  Imagetriggered1: {fileID: 2087463241}
   Imagetriggered2: {fileID: 0}
 --- !u!1 &998879316
 GameObject:
@@ -609,7 +609,7 @@ PrefabInstance:
     - target: {fileID: 3009202495069188231, guid: 846fa5176f9792a42a17f611cd38de45,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 268
+      value: 75.099976
       objectReference: {fileID: 0}
     - target: {fileID: 3009202495069188231, guid: 846fa5176f9792a42a17f611cd38de45,
         type: 3}
@@ -1636,7 +1636,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 103}
+  m_AnchoredPosition: {x: 0, y: 56}
   m_SizeDelta: {x: 266.3, y: 39.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1911346917
@@ -1661,7 +1661,7 @@ MonoBehaviour:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 25
     m_FontStyle: 1
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 40
     m_Alignment: 4
@@ -1749,7 +1749,7 @@ PrefabInstance:
     - target: {fileID: 7569039183290532520, guid: 89fe45b4d4e935d4aa472146fa0056c0,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 302.9
+      value: 152
       objectReference: {fileID: 0}
     - target: {fileID: 7569039183290532520, guid: 89fe45b4d4e935d4aa472146fa0056c0,
         type: 3}

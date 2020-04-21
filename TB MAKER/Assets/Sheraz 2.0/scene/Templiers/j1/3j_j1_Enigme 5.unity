@@ -319,6 +319,12 @@ RectTransform:
     type: 3}
   m_PrefabInstance: {fileID: 380810947}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &380810949 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7569039183290532521, guid: 89fe45b4d4e935d4aa472146fa0056c0,
+    type: 3}
+  m_PrefabInstance: {fileID: 380810947}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &406709989
 GameObject:
   m_ObjectHideFlags: 0
@@ -528,7 +534,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Panel_Code: {fileID: 1876657324}
-  Boutton: {fileID: 0}
+  Boutton: {fileID: 380810949}
 --- !u!4 &510390967
 Transform:
   m_ObjectHideFlags: 0
@@ -552,13 +558,19 @@ MonoBehaviour:
   m_GameObject: {fileID: 510390965}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 34a91de1777a1514b9ba4f7650bee2d5, type: 3}
+  m_Script: {fileID: 11500000, guid: 49a91960955135a42a79c65626226ccb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Pass: {fileID: 2024106691}
   code: 
-  txt: {fileID: 998879318}
-  To_Load: 3j_j1_Enigme 6
+  txt: {fileID: 1911346917}
+  To_Load1: 
+  To_Load2: 
+  To_Load3: 
+  To_Load4: 
+  To_Load5: Text_T21
+  To_Load6: 
+  To_Load7: 
 --- !u!1 &998879316
 GameObject:
   m_ObjectHideFlags: 0
@@ -783,7 +795,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 510390968}
+      - m_Target: {fileID: 0}
         m_MethodName: Enter_Push
         m_Mode: 1
         m_Arguments:

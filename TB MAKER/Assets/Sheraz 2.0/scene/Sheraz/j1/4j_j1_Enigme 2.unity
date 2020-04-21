@@ -480,7 +480,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 05b7aa50e5b63f548bdb7982fb937de1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Imagetriggered1: {fileID: 0}
+  Imagetriggered1: {fileID: 476741886}
   Imagetriggered2: {fileID: 0}
 --- !u!1001 &540005422
 PrefabInstance:
@@ -552,7 +552,7 @@ PrefabInstance:
     - target: {fileID: 7569039183290532520, guid: 89fe45b4d4e935d4aa472146fa0056c0,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 302.9
+      value: 153
       objectReference: {fileID: 0}
     - target: {fileID: 7569039183290532520, guid: 89fe45b4d4e935d4aa472146fa0056c0,
         type: 3}
@@ -1241,7 +1241,7 @@ PrefabInstance:
     - target: {fileID: 3009202495069188231, guid: 846fa5176f9792a42a17f611cd38de45,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 222
+      value: 72.099976
       objectReference: {fileID: 0}
     - target: {fileID: 3009202495069188231, guid: 846fa5176f9792a42a17f611cd38de45,
         type: 3}

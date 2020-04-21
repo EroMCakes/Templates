@@ -409,6 +409,12 @@ RectTransform:
     type: 3}
   m_PrefabInstance: {fileID: 266481858}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &266481860 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7569039183290532521, guid: 89fe45b4d4e935d4aa472146fa0056c0,
+    type: 3}
+  m_PrefabInstance: {fileID: 266481858}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &406709989
 GameObject:
   m_ObjectHideFlags: 0
@@ -617,7 +623,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Panel_Code: {fileID: 1876657324}
-  Boutton: {fileID: 0}
+  Boutton: {fileID: 266481860}
 --- !u!4 &510390967
 Transform:
   m_ObjectHideFlags: 0
@@ -647,7 +653,12 @@ MonoBehaviour:
   Pass: {fileID: 2024106691}
   code: 
   txt: {fileID: 998879318}
-  To_Load: 3j_j1_Enigme 7
+  To_Load1: 
+  To_Load2: 
+  To_Load3: 
+  To_Load4: 
+  To_Load5: 
+  To_Load6: 
 --- !u!1 &998879316
 GameObject:
   m_ObjectHideFlags: 0
@@ -1445,7 +1456,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.8235294}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.33333334}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -1518,7 +1529,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
