@@ -400,7 +400,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 458f1a52b302d3141ab608c68e2ec499, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7b299e5addb04a64aa96fcd931b29dd2, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -624,7 +624,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e1b85361d980df349972dd3c1fad7412, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 54c82bb802af2e44188b286b396bfdef, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -924,9 +924,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1456546384}
-        m_MethodName: Load_Scene
-        m_Mode: 5
+      - m_Target: {fileID: 0}
+        m_MethodName: Load_Temp
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -953,7 +953,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 5b73eb88a3c8a09479abaf8c21b5589a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b4d7ab17939a91147ba2113e892e04c5, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
