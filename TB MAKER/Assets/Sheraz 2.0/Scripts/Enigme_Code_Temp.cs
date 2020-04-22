@@ -49,7 +49,7 @@ public class Enigme_Code_Temp : MonoBehaviour
                 txt.text = "Code valide !";
                 UnityEngine.SceneManagement.SceneManager.LoadScene(To_Load5);
             }
-            else if (code == "132")
+            else if (code == "750")
             {
                 txt.text = "Code valide !";
                 UnityEngine.SceneManagement.SceneManager.LoadScene(To_Load6);

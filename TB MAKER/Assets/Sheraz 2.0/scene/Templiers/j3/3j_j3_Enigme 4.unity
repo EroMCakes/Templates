@@ -195,34 +195,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 27674333}
   m_CullTransparentMesh: 0
---- !u!21 &49804922
-Material:
-  serializedVersion: 6
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 'targ_planMaterial
-
-    25182'
-  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: 
-  m_LightmapFlags: 5
-  m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
-  disabledShaderPasses: []
-  m_SavedProperties:
-    serializedVersion: 3
-    m_TexEnvs:
-    - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 8d30946eac30497389a752d85c0fbe14, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    m_Floats: []
-    m_Colors:
-    - _Color: {r: 0.82089555, g: 0.82089555, b: 0.82089555, a: 1}
 --- !u!1 &60474608
 GameObject:
   m_ObjectHideFlags: 0
@@ -479,6 +451,34 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 126691428}
   m_CullTransparentMesh: 0
+--- !u!21 &262240107
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 'targ_planMaterial
+
+    48294'
+  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 8d30946eac30497389a752d85c0fbe14, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _Color: {r: 0.82089555, g: 0.82089555, b: 0.82089555, a: 1}
 --- !u!1 &406709989
 GameObject:
   m_ObjectHideFlags: 0
@@ -1393,7 +1393,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 49804922}
+  - {fileID: 262240107}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1456,8 +1456,8 @@ MonoBehaviour:
   mDataSetPath: Vuforia/Temp20.xml
   mAspectRatio: 0.5813953
   mImageTargetType: 0
-  mWidth: 594.06
-  mHeight: 345.3837
+  mWidth: 1118.615
+  mHeight: 650.35754
 --- !u!4 &1803306712
 Transform:
   m_ObjectHideFlags: 0
@@ -1467,7 +1467,7 @@ Transform:
   m_GameObject: {fileID: 1803306706}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 55.4, y: 0, z: 0}
-  m_LocalScale: {x: 594.06, y: 594.06, z: 594.06}
+  m_LocalScale: {x: 1118.615, y: 1118.615, z: 1118.615}
   m_Children:
   - {fileID: 2137931175}
   m_Father: {fileID: 0}

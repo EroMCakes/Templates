@@ -951,7 +951,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1439630369}
   m_CullTransparentMesh: 0
---- !u!21 &1501007802
+--- !u!21 &1487805668
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
@@ -960,7 +960,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: 'targ_planMaterial
 
-    24434'
+    45188'
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -1196,6 +1196,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1876657325}
     m_Modifications:
+    - target: {fileID: 3009202495069188228, guid: 846fa5176f9792a42a17f611cd38de45,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 510390966}
+    - target: {fileID: 3009202495069188228, guid: 846fa5176f9792a42a17f611cd38de45,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: close_panel
+      objectReference: {fileID: 0}
     - target: {fileID: 3009202495069188230, guid: 846fa5176f9792a42a17f611cd38de45,
         type: 3}
       propertyPath: m_Name
@@ -1361,7 +1371,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 1501007802}
+  - {fileID: 1487805668}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1424,8 +1434,8 @@ MonoBehaviour:
   mDataSetPath: Vuforia/Temp20.xml
   mAspectRatio: 0.5813953
   mImageTargetType: 0
-  mWidth: 281.017
-  mHeight: 163.38197
+  mWidth: 938.9059
+  mHeight: 545.8755
 --- !u!4 &1803306712
 Transform:
   m_ObjectHideFlags: 0
@@ -1435,7 +1445,7 @@ Transform:
   m_GameObject: {fileID: 1803306706}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 281.017, y: 281.017, z: 281.017}
+  m_LocalScale: {x: 938.9059, y: 938.9059, z: 938.9059}
   m_Children:
   - {fileID: 1587377032}
   m_Father: {fileID: 0}
@@ -1711,6 +1721,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: panelopen
+      objectReference: {fileID: 0}
+    - target: {fileID: 7569039183290532523, guid: 89fe45b4d4e935d4aa472146fa0056c0,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 510390966}
+    - target: {fileID: 7569039183290532523, guid: 89fe45b4d4e935d4aa472146fa0056c0,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: open_panel
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 89fe45b4d4e935d4aa472146fa0056c0, type: 3}

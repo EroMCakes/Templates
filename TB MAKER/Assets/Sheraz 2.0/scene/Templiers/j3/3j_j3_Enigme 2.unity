@@ -617,7 +617,7 @@ MonoBehaviour:
   code: 
   txt: {fileID: 1911346917}
   To_Load1: 
-  To_Load2: 
+  To_Load2: Text_T13
   To_Load3: 
   To_Load4: 
   To_Load5: 

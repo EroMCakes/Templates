@@ -12,6 +12,39 @@ EditorBuildSettings:
     path: Assets/Sheraz 2.0/scene/Type_Partie.unity
     guid: 6abd143aa442bd247ac7f57232b70656
   - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Type_Partie_temp.unity
+    guid: 6119b95f6b70ff94b85c070e669eb293
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Text_T11.unity
+    guid: cd58624224b08884aa03ccaaa7c7bd0a
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Text_T12.unity
+    guid: 1d765c669235dba419d1cd0c176e7db6
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Text_T13.unity
+    guid: c902f3c9815421241b8661f479db8c9c
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Text_T21.unity
+    guid: 18ff241a64a893e4aa8caf122bb54585
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Text_T22.unity
+    guid: 3d69e6fef8fae1e46bea2eae86dbdbd0
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Text_T23.unity
+    guid: e901e6231a9e5bd40a9824541e309b10
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Templiers/j1/3j_j1_Enigme 1.unity
+    guid: 88eb5865d1eff9340b639a1bf71c9d86
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Templiers/j1/3j_j1_Enigme 2.unity
+    guid: 93b3688c89ecf6249908e08476bdc1ad
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Templiers/j1/3j_j1_Enigme 3.unity
+    guid: e15983daae5e01840a32d8e278f5d2de
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Templiers/j1/3j_j1_Enigme 4.unity
+    guid: 72769e1a8b966f94c947920d2b3fd8f3
+  - enabled: 1
     path: Assets/Sheraz 2.0/scene/Text11.unity
     guid: b238959b6e958c746a769a95198f7a8e
   - enabled: 1
@@ -83,6 +116,48 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Sheraz 2.0/scene/Sheraz/j1/4j_j1_Enigme 7.unity
     guid: 54974220cf47a3a46a9e8be0d3668adb
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Templiers/j3/3j_j3_Enigme 1.unity
+    guid: 4c518ee22eb4b0d43aa42cd67fe53fcb
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Templiers/j3/3j_j3_Enigme 2.unity
+    guid: 298742e0d09bcb74e8c95eb300961247
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Templiers/j3/3j_j3_Enigme 3.unity
+    guid: 1c31c2cbaa61ddc47a2c9b079500c433
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Templiers/j3/3j_j3_Enigme 4.unity
+    guid: 960fba12491819c468f2250b27fd79f9
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Templiers/j3/3j_j3_Enigme 5.unity
+    guid: 9cea9780d4aa93a4bb4855c960499e9b
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Templiers/j3/3j_j3_Enigme 6.unity
+    guid: b8d93b2367b87c64c9675a3cb7674e56
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Templiers/j3/3j_j3_Enigme 7.unity
+    guid: c27a68dc8c6341146a5161eac80c4860
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Templiers/j2/3j_j2_Enigme 1.unity
+    guid: cfb87acd0f193234097035effe4b518e
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Templiers/j2/3j_j2_Enigme 2.unity
+    guid: 7abfa4648d29f8342bf0c82299a4e001
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Templiers/j2/3j_j2_Enigme 3.unity
+    guid: 42b866b958ddc1a4ca85dcc878c62e4b
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Templiers/j2/3j_j2_Enigme 4.unity
+    guid: 108a51932f4ffa240bf573338e809581
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Templiers/j2/3j_j2_Enigme 5.unity
+    guid: b46d2ad374406574f8dcda0b4a7fb6da
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Templiers/j2/3j_j2_Enigme 6.unity
+    guid: 094a86ab02aec844cbfd2a46235b8c89
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Templiers/j2/3j_j2_Enigme 7.unity
+    guid: f95dd63d081a85b4cbb85492ebd562ee
   - enabled: 1
     path: Assets/Sheraz 2.0/scene/Templiers/j1/3j_j1_Enigme 5.unity
     guid: 8cd4a65f0285fb4419b5ff9203a1359c

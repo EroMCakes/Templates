@@ -737,7 +737,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 1244066381}
+  - {fileID: 1482808328}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -800,8 +800,8 @@ MonoBehaviour:
   mDataSetPath: Vuforia/Temp20.xml
   mAspectRatio: 0.5813953
   mImageTargetType: 0
-  mWidth: 202.99214
-  mHeight: 118.018684
+  mWidth: 1422.4268
+  mHeight: 826.99225
 --- !u!4 &415550917
 Transform:
   m_ObjectHideFlags: 0
@@ -811,7 +811,7 @@ Transform:
   m_GameObject: {fileID: 415550911}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -79.77, y: 0, z: 0}
-  m_LocalScale: {x: 202.99214, y: 202.99214, z: 202.99214}
+  m_LocalScale: {x: 1422.4268, y: 1422.4268, z: 1422.4268}
   m_Children:
   - {fileID: 602646751}
   m_Father: {fileID: 0}
@@ -1432,7 +1432,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1176877633}
   m_CullTransparentMesh: 0
---- !u!21 &1244066381
+--- !u!21 &1482808328
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
@@ -1441,7 +1441,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: 'targ_planMaterial
 
-    22410'
+    47904'
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
