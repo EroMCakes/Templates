@@ -27,6 +27,15 @@ EditorBuildSettings:
     path: Assets/Sheraz 2.0/scene/Text_T21.unity
     guid: 18ff241a64a893e4aa8caf122bb54585
   - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Text_T31.unity
+    guid: ebc86b11daa4e674eac0d52875b5be9d
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Text_T32.unity
+    guid: 5437710fd7201634bb5de1ca612554d2
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Text_T33.unity
+    guid: e7a7b7078ef9bb2449c0723d15d49df2
+  - enabled: 1
     path: Assets/Sheraz 2.0/scene/Text_T22.unity
     guid: 3d69e6fef8fae1e46bea2eae86dbdbd0
   - enabled: 1
@@ -179,6 +188,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Sheraz 2.0/scene/Fin.unity
     guid: 470197c5c4b02454bac085e0bbfd63ff
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/Fin_T.unity
+    guid: a4b36062c6b0bae4aa210617314aa3a5
   - enabled: 1
     path: Assets/Sheraz 2.0/scene/tuto.unity
     guid: 9941e22a61780fa4e8b27851be6792a4

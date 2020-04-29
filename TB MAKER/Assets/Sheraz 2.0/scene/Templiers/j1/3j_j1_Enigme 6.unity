@@ -506,7 +506,7 @@ MonoBehaviour:
   To_Load3: 
   To_Load4: 
   To_Load5: 
-  To_Load6: 3j_j1_Enigme 7
+  To_Load6: Text_T31
   To_Load7: 
 --- !u!1 &830753641
 GameObject:
@@ -815,7 +815,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 510390968}
         m_MethodName: Enter_Push
         m_Mode: 1
         m_Arguments:

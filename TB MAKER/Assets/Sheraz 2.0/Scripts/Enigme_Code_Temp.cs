@@ -39,7 +39,7 @@ public class Enigme_Code_Temp : MonoBehaviour
                 txt.text = "Code valide !";
                 UnityEngine.SceneManagement.SceneManager.LoadScene(To_Load3);
             }
-            else if (code == "MSV" || code == "msv")
+            else if (code == "VMS" || code == "vms")
             {
                 txt.text = "Code valide !";
                 UnityEngine.SceneManagement.SceneManager.LoadScene(To_Load4);
