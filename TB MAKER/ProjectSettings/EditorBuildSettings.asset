@@ -6,40 +6,40 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Sheraz 2.0/scene/start.unity
+    path: Assets/Sheraz 2.0/scene/parametre/start.unity
     guid: 63d51e73fdda43849b7171a07e50e943
   - enabled: 1
-    path: Assets/Sheraz 2.0/scene/Type_Partie.unity
+    path: Assets/Sheraz 2.0/scene/parametre/Type_Partie.unity
     guid: 6abd143aa442bd247ac7f57232b70656
   - enabled: 1
-    path: Assets/Sheraz 2.0/scene/Type_Partie_temp.unity
+    path: Assets/Sheraz 2.0/scene/parametre/Type_Partie_temp.unity
     guid: 6119b95f6b70ff94b85c070e669eb293
   - enabled: 1
-    path: Assets/Sheraz 2.0/scene/Text_T11.unity
+    path: Assets/Sheraz 2.0/scene/Templiers/Text_T11.unity
     guid: cd58624224b08884aa03ccaaa7c7bd0a
   - enabled: 1
-    path: Assets/Sheraz 2.0/scene/Text_T12.unity
+    path: Assets/Sheraz 2.0/scene/Templiers/Text_T12.unity
     guid: 1d765c669235dba419d1cd0c176e7db6
   - enabled: 1
-    path: Assets/Sheraz 2.0/scene/Text_T13.unity
+    path: Assets/Sheraz 2.0/scene/Templiers/Text_T13.unity
     guid: c902f3c9815421241b8661f479db8c9c
   - enabled: 1
-    path: Assets/Sheraz 2.0/scene/Text_T21.unity
+    path: Assets/Sheraz 2.0/scene/Templiers/Text_T21.unity
     guid: 18ff241a64a893e4aa8caf122bb54585
   - enabled: 1
-    path: Assets/Sheraz 2.0/scene/Text_T31.unity
+    path: Assets/Sheraz 2.0/scene/Templiers/Text_T31.unity
     guid: ebc86b11daa4e674eac0d52875b5be9d
   - enabled: 1
-    path: Assets/Sheraz 2.0/scene/Text_T32.unity
+    path: Assets/Sheraz 2.0/scene/Templiers/Text_T32.unity
     guid: 5437710fd7201634bb5de1ca612554d2
   - enabled: 1
-    path: Assets/Sheraz 2.0/scene/Text_T33.unity
+    path: Assets/Sheraz 2.0/scene/Templiers/Text_T33.unity
     guid: e7a7b7078ef9bb2449c0723d15d49df2
   - enabled: 1
-    path: Assets/Sheraz 2.0/scene/Text_T22.unity
+    path: Assets/Sheraz 2.0/scene/Templiers/Text_T22.unity
     guid: 3d69e6fef8fae1e46bea2eae86dbdbd0
   - enabled: 1
-    path: Assets/Sheraz 2.0/scene/Text_T23.unity
+    path: Assets/Sheraz 2.0/scene/Templiers/Text_T23.unity
     guid: e901e6231a9e5bd40a9824541e309b10
   - enabled: 1
     path: Assets/Sheraz 2.0/scene/Templiers/j1/3j_j1_Enigme 1.unity
@@ -54,22 +54,22 @@ EditorBuildSettings:
     path: Assets/Sheraz 2.0/scene/Templiers/j1/3j_j1_Enigme 4.unity
     guid: 72769e1a8b966f94c947920d2b3fd8f3
   - enabled: 1
-    path: Assets/Sheraz 2.0/scene/Text11.unity
+    path: Assets/Sheraz 2.0/scene/Sheraz/Text11.unity
     guid: b238959b6e958c746a769a95198f7a8e
   - enabled: 1
-    path: Assets/Sheraz 2.0/scene/Text23.unity
+    path: Assets/Sheraz 2.0/scene/Sheraz/Text23.unity
     guid: e6f10fc0a4cdd6f4aa9cd50f0b8bff2b
   - enabled: 1
-    path: Assets/Sheraz 2.0/scene/Text22.unity
+    path: Assets/Sheraz 2.0/scene/Sheraz/Text22.unity
     guid: 68ef9f998ff07ee48aa3ecf2e07384c5
   - enabled: 1
-    path: Assets/Sheraz 2.0/scene/Text21.unity
+    path: Assets/Sheraz 2.0/scene/Sheraz/Text21.unity
     guid: 01bf8fce7b3a7c046843a5e63f40d2d9
   - enabled: 1
-    path: Assets/Sheraz 2.0/scene/Text13.unity
+    path: Assets/Sheraz 2.0/scene/Sheraz/Text13.unity
     guid: 09a595cf0972a68469a84c8fd6ee2d82
   - enabled: 1
-    path: Assets/Sheraz 2.0/scene/Text12.unity
+    path: Assets/Sheraz 2.0/scene/Sheraz/Text12.unity
     guid: 9a0782ed7635b7f4d87d0b3a6fccc8ad
   - enabled: 1
     path: Assets/Sheraz 2.0/scene/Sheraz/j1/4j_j1_Enigme 1.unity
@@ -186,12 +186,21 @@ EditorBuildSettings:
     path: Assets/Sheraz 2.0/scene/Sheraz/j3/4j_j3_Enigme 3.unity
     guid: 2150793b5f1596e48b7e29206a83dbe1
   - enabled: 1
-    path: Assets/Sheraz 2.0/scene/Fin.unity
+    path: Assets/Sheraz 2.0/scene/Sheraz/Fin.unity
     guid: 470197c5c4b02454bac085e0bbfd63ff
   - enabled: 1
-    path: Assets/Sheraz 2.0/scene/Fin_T.unity
+    path: Assets/Sheraz 2.0/scene/Templiers/Fin_T.unity
     guid: a4b36062c6b0bae4aa210617314aa3a5
   - enabled: 1
-    path: Assets/Sheraz 2.0/scene/tuto.unity
+    path: Assets/Sheraz 2.0/scene/tuto/Type_Partie_tuto.unity
+    guid: fcd619b7d2e81104a877be211c72a812
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/tuto/tuto_j1.unity
     guid: 9941e22a61780fa4e8b27851be6792a4
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/tuto/tuto_j3.unity
+    guid: cf7518acef0df8b4bb67fa83afd1d6dc
+  - enabled: 1
+    path: Assets/Sheraz 2.0/scene/tuto/tuto_j2.unity
+    guid: 259600f2d9499aa41870a47fdb02b631
   m_configObjects: {}

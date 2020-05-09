@@ -13,7 +13,7 @@ public class tuto_code : MonoBehaviour
     public void Val()
     {
         code = Pass.text;
-        if (code == "0000")
+        if (code == "156")
         {
             txt.text = "Code valide !";
             Debug.Log("ok");

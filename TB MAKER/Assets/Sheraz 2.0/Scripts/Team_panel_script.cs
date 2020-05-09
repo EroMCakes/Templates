@@ -64,7 +64,6 @@ public class Team_panel_script : MonoBehaviour
             Panels[i].gameObject.SetActive(false);
             i++;
         }
-             
     }
 
     // Update is called once per frame 
