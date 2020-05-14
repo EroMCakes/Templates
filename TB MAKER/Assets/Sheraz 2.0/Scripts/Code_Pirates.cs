@@ -79,7 +79,7 @@ public class Code_Pirates : MonoBehaviour
 
     public void Val_Field()
     {
-        if (code == "Gauche Droite Bas Haut ")
+        if (code == "W E S N ")
         {
             Aff_alpha.text = "Code valide";
             UnityEngine.SceneManagement.SceneManager.LoadScene(To_Load3);

@@ -379,7 +379,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: Type_Partie pirate
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &716686518
@@ -932,7 +932,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Type_Partie_temp
+          m_StringArgument: Type_Partie temp
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &2135232923
